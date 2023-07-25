@@ -1,0 +1,295 @@
+C:\Users\Eric\source\repos\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.exe.config
+C:\Users\Eric\source\repos\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.exe
+C:\Users\Eric\source\repos\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.pdb
+C:\Users\Eric\source\repos\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.xml
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.PantallaBloqueo.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Resources.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.GenerateResource.cache
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.exe
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.xml
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.pdb
+C:\Users\Eric\source\repos\RestoBarGourmetV2\bin\Debug\database\RBGDB.mdf
+C:\Users\Eric\source\repos\RestoBarGourmetV2\bin\Debug\database\RBGDB_log.ldf
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.MenuPrincipal.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.InventarioMercaderia.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Menues.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarMercaderia.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.AssemblyReference.cache
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.ControlMesas.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.InventarioUtiles.resources
+D:\No tirar\Proyecto\Eric\RestoBarGourmetV2\bin\Debug\database\RBGDB.mdf
+D:\No tirar\Proyecto\Eric\RestoBarGourmetV2\bin\Debug\database\RBGDB_log.ldf
+D:\No tirar\Proyecto\Eric\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.exe.config
+D:\No tirar\Proyecto\Eric\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.exe
+D:\No tirar\Proyecto\Eric\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.pdb
+D:\No tirar\Proyecto\Eric\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.xml
+D:\No tirar\Proyecto\Eric\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.AssemblyReference.cache
+D:\No tirar\Proyecto\Eric\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarMercaderia.resources
+D:\No tirar\Proyecto\Eric\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VEditarMercaderia.resources
+D:\No tirar\Proyecto\Eric\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.ControlMesas.resources
+D:\No tirar\Proyecto\Eric\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.InventarioMercaderia.resources
+D:\No tirar\Proyecto\Eric\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.InventarioUtiles.resources
+D:\No tirar\Proyecto\Eric\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Menues.resources
+D:\No tirar\Proyecto\Eric\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.MenuPrincipal.resources
+D:\No tirar\Proyecto\Eric\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.PantallaBloqueo.resources
+D:\No tirar\Proyecto\Eric\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Resources.resources
+D:\No tirar\Proyecto\Eric\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.GenerateResource.cache
+D:\No tirar\Proyecto\Eric\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.CoreCompileInputs.cache
+D:\No tirar\Proyecto\Eric\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.exe
+D:\No tirar\Proyecto\Eric\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.xml
+D:\No tirar\Proyecto\Eric\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.pdb
+D:\No tirar\Proyecto\Eric\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Bienvenido.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Bienvenido.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarIngredienteMenu.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarMenu.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VIngresarCantidadIngrediente.resources
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\bin\Debug\database\RBGDB.mdf
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\bin\Debug\database\RBGDB_log.ldf
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.exe.config
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.exe
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.pdb
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.xml
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.AssemblyReference.cache
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Bienvenido.resources
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarIngredienteMenu.resources
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarMenu.resources
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarMercaderia.resources
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VIngresarCantidadIngrediente.resources
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.ControlMesas.resources
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.InventarioMercaderia.resources
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.InventarioUtiles.resources
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Menues.resources
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.MenuPrincipal.resources
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.PantallaBloqueo.resources
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Resources.resources
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.GenerateResource.cache
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.CoreCompileInputs.cache
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.exe
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.xml
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.pdb
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.AgendaTelefonica.resources
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Configuraciones.resources
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.EntradaSalida.resources
+D:\No tirar\Proyecto\Eric\32-05-23\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.ManualAyuda.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\bin\Debug\database\RBGDB.mdf
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\bin\Debug\database\RBGDB_log.ldf
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.exe.config
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.exe
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.pdb
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.xml
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.AssemblyReference.cache
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Bienvenido.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarIngredienteMenu.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarMenu.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarMercaderia.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VIngresarCantidadIngrediente.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.AgendaTelefonica.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Configuraciones.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.ControlMesas.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.EntradaSalida.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.InventarioMercaderia.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.InventarioUtiles.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.ManualAyuda.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Menues.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.MenuPrincipal.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.PantallaBloqueo.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Resources.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.GenerateResource.cache
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.exe
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.xml
+C:\Users\Eric\source\repos\RestoBarGourmetV2(01-05-23-San)\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.pdb
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.AgendaTelefonica.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Configuraciones.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.EntradaSalida.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.ManualAyuda.resources
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\bin\Debug\database\RBGDB.mdf
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\bin\Debug\database\RBGDB_log.ldf
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.exe.config
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.exe
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.pdb
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.xml
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.AssemblyReference.cache
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Bienvenido.resources
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarIngredienteMenu.resources
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarMenu.resources
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarMercaderia.resources
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VIngresarCantidadIngrediente.resources
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.AgendaTelefonica.resources
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Configuraciones.resources
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.ControlMesas.resources
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.EntradaSalida.resources
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.InventarioMercaderia.resources
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.InventarioUtiles.resources
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.ManualAyuda.resources
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Menues.resources
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.MenuPrincipal.resources
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.PantallaBloqueo.resources
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Resources.resources
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.GenerateResource.cache
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.CoreCompileInputs.cache
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.exe
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.xml
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.pdb
+C:\Users\54113\OneDrive\Escritorio\ProyectoUtiles\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarUtiles.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarUtiles.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarVentaMenu.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VVenta.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VIngresarCantidadVenta.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\bin\Debug\database\RBGDB.mdf
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\bin\Debug\database\RBGDB_log.ldf
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.exe.config
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.exe
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.pdb
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.xml
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.AssemblyReference.cache
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Bienvenido.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarIngredienteMenu.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarMenu.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarMercaderia.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarUtiles.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarVentaMenu.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VIngresarCantidadIngrediente.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VIngresarCantidadMenu.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VIngresarCantidadVenta.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VVenta.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.AgendaTelefonica.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Configuraciones.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.ControlMesas.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.EntradaSalida.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.InventarioMercaderia.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.InventarioUtiles.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.ManualAyuda.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Menues.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.MenuPrincipal.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.PantallaBloqueo.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Resources.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.GenerateResource.cache
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.CoreCompileInputs.cache
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.exe
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.xml
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.pdb
+C:\Users\54113\OneDrive\Escritorio\RESTI\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarTelefono.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarTelefono.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarMesa.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarReserva.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VVerReservas.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VVerMenu.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\bin\Debug\database\RBGDB.mdf
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\bin\Debug\database\RBGDB_log.ldf
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.exe.config
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.exe
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.pdb
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.xml
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.AssemblyReference.cache
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Bienvenido.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarIngredienteMenu.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarMenu.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VVerMenu.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarMercaderia.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarMesa.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarReserva.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarTelefono.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarUtiles.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarVentaMenu.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VIngresarCantidadIngrediente.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VIngresarCantidadVenta.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VVenta.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VVerReservas.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.AgendaTelefonica.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Configuraciones.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.ControlMesas.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.EntradaSalida.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.InventarioMercaderia.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.InventarioUtiles.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.ManualAyuda.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Menues.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.MenuPrincipal.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.PantallaBloqueo.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Resources.resources
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.GenerateResource.cache
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.CoreCompileInputs.cache
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.exe
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.xml
+C:\Users\54113\OneDrive\Escritorio\RESTI2dejulio\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.pdb
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.MermaCompra.resources
+C:\Users\Eric\source\repos\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Observaciones.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.AssemblyReference.cache
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Bienvenido.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.MermaCompra.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Observaciones.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarIngredienteMenu.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarMenu.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VVerMenu.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarMercaderia.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarMesa.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarReserva.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarTelefono.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarUtiles.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarVentaMenu.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VIngresarCantidadIngrediente.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VIngresarCantidadVenta.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VVenta.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VVerReservas.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.AgendaTelefonica.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Configuraciones.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.ControlMesas.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.EntradaSalida.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.InventarioMercaderia.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.InventarioUtiles.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.ManualAyuda.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Menues.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.MenuPrincipal.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.PantallaBloqueo.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Resources.resources
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.GenerateResource.cache
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.CoreCompileInputs.cache
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.exe
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.xml
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.pdb
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\bin\Debug\database\RBGDB.mdf
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\bin\Debug\database\RBGDB_log.ldf
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.exe.config
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.exe
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.pdb
+D:\No tirar\Proyecto\Eric\Digamos que ultimo\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.xml
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\bin\Debug\database\RBGDB.mdf
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\bin\Debug\database\RBGDB_log.ldf
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.exe.config
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.exe
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.pdb
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\bin\Debug\RestoBarGourmetV2.xml
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.AssemblyReference.cache
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Bienvenido.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.MermaCompra.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Observaciones.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarIngredienteMenu.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarMenu.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VVerMenu.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarMercaderia.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarMesa.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarReserva.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarTelefono.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarUtiles.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VAgregarVentaMenu.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VIngresarCantidadIngrediente.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VIngresarCantidadVenta.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VVenta.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.VVerReservas.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.AgendaTelefonica.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Configuraciones.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.ControlMesas.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.EntradaSalida.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.InventarioMercaderia.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.InventarioUtiles.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.ManualAyuda.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Menues.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.MenuPrincipal.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.PantallaBloqueo.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.Resources.resources
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.GenerateResource.cache
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.vbproj.CoreCompileInputs.cache
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.exe
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.xml
+C:\Users\54113\OneDrive\Escritorio\RestoBar Final\RestoBarGourmetV2\obj\Debug\RestoBarGourmetV2.pdb

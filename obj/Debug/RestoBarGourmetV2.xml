@@ -1,0 +1,321 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RestoBarGourmetV2
+</name>
+</assembly>
+<members>
+<member name="T:RestoBarGourmetV2.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.AceptarB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.AceptarChiquitoB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.AceptarChiquitoN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.AceptarN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.AgendaTelefonicaB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.AgendaTelefonicaN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.AgregarB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.AgregarChiquitoB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.AgregarChiquitoN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.AgregarIngredienteB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.AgregarIngredienteN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.AgregarMesaB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.AgregarMesaN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.AgregarN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.atrasB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.atrasN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.BienvenidaB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.BienvenidaN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.CancelarB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.CancelarChiquitoB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.CancelarChiquitoN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.CancelarN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.cerrarB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.CerrarBB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.CerrarBN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.cerrarN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.ConcretarVentaB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.ConcretarVentaN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.ConfiguracionesB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.ConfiguracionesN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.ControlDeMesasB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.ControlDeMesasN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.ControlMercaderiasB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.ControlMercaderiasN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.EntradasYSalidasB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.EntradasYSalidasN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.facebook">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.Fondo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.FondoD">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.ImprimirB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.ImprimirN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.ImprimirTicketB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.ImprimirTicketN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.instagram">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.InventarioDeUtilesB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.InventarioDeUtilesN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.Logo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.Logo1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.ManualDeAyudaB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.ManualDeAyudaN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.maximizarB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.maximizarN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.MenuDisponibleB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.MenuDisponibleN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.minimizarB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.minimizarN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.ModificarContraseñaB">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.ModificarContraseñaN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RestoBarGourmetV2.My.Resources.Resources.whatsapp">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

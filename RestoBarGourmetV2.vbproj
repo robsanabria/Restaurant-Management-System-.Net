@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D674A785-F084-42B2-BC48-0C03C14F8747}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>RestoBarGourmetV2.My.MyApplication</StartupObject>
+    <RootNamespace>RestoBarGourmetV2</RootNamespace>
+    <AssemblyName>RestoBarGourmetV2</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>RestoBarGourmetV2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>RestoBarGourmetV2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="forms\Bienvenido.Designer.vb">
+      <DependentUpon>Bienvenido.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\Bienvenido.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\ventanas\EntradasSalidas\MermaCompra.Designer.vb">
+      <DependentUpon>MermaCompra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\ventanas\EntradasSalidas\MermaCompra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\ventanas\EntradasSalidas\Observaciones.Designer.vb">
+      <DependentUpon>Observaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\ventanas\EntradasSalidas\Observaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\ventanas\Menues\VAgregarIngredienteMenu.Designer.vb">
+      <DependentUpon>VAgregarIngredienteMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\ventanas\Menues\VAgregarIngredienteMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\ventanas\Menues\VAgregarMenu.Designer.vb">
+      <DependentUpon>VAgregarMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\ventanas\Menues\VAgregarMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\ventanas\Menues\VVerMenu.Designer.vb">
+      <DependentUpon>VVerMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\ventanas\Menues\VVerMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\ventanas\Mercaderia\VAgregarMercaderia.Designer.vb">
+      <DependentUpon>VAgregarMercaderia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\ventanas\Mercaderia\VAgregarMercaderia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\ventanas\Mesas\VAgregarMesa.Designer.vb">
+      <DependentUpon>VAgregarMesa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\ventanas\Mesas\VAgregarMesa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\ventanas\Reservas\VAgregarReserva.Designer.vb">
+      <DependentUpon>VAgregarReserva.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\ventanas\Reservas\VAgregarReserva.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\ventanas\Telefonos\VAgregarTelefono.Designer.vb">
+      <DependentUpon>VAgregarTelefono.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\ventanas\Telefonos\VAgregarTelefono.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\ventanas\Utiles\VAgregarUtiles.Designer.vb">
+      <DependentUpon>VAgregarUtiles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\ventanas\Utiles\VAgregarUtiles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\ventanas\Ventas\VAgregarVentaMenu.Designer.vb">
+      <DependentUpon>VAgregarVentaMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\ventanas\Ventas\VAgregarVentaMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\ventanas\Menues\VIngresarCantidadIngrediente.Designer.vb">
+      <DependentUpon>VIngresarCantidadIngrediente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\ventanas\Menues\VIngresarCantidadIngrediente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\ventanas\Ventas\VIngresarCantidadVenta.Designer.vb">
+      <DependentUpon>VIngresarCantidadVenta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\ventanas\Ventas\VIngresarCantidadVenta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\ventanas\Ventas\VVenta.Designer.vb">
+      <DependentUpon>VVenta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\ventanas\Ventas\VVenta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\ventanas\Reservas\VVerReservas.Designer.vb">
+      <DependentUpon>VVerReservas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\ventanas\Reservas\VVerReservas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\views\AgendaTelefonica.Designer.vb">
+      <DependentUpon>AgendaTelefonica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\views\AgendaTelefonica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\views\Configuraciones.Designer.vb">
+      <DependentUpon>Configuraciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\views\Configuraciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\views\ControlMesas.Designer.vb">
+      <DependentUpon>ControlMesas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\views\ControlMesas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\views\EntradaSalida.Designer.vb">
+      <DependentUpon>EntradaSalida.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\views\EntradaSalida.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\views\InventarioMercaderia.Designer.vb">
+      <DependentUpon>InventarioMercaderia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\views\InventarioMercaderia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\views\InventarioUtiles.Designer.vb">
+      <DependentUpon>InventarioUtiles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\views\InventarioUtiles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\views\ManualAyuda.Designer.vb">
+      <DependentUpon>ManualAyuda.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\views\ManualAyuda.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\views\Menues.Designer.vb">
+      <DependentUpon>Menues.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\views\Menues.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\MenuPrincipal.Designer.vb">
+      <DependentUpon>MenuPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\MenuPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\PantallaBloqueo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\PantallaBloqueo.Designer.vb">
+      <DependentUpon>PantallaBloqueo.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainClass.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="forms\Bienvenido.resx">
+      <DependentUpon>Bienvenido.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\ventanas\EntradasSalidas\MermaCompra.resx">
+      <DependentUpon>MermaCompra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\ventanas\EntradasSalidas\Observaciones.resx">
+      <DependentUpon>Observaciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\ventanas\Menues\VAgregarIngredienteMenu.resx">
+      <DependentUpon>VAgregarIngredienteMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\ventanas\Menues\VAgregarMenu.resx">
+      <DependentUpon>VAgregarMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\ventanas\Menues\VVerMenu.resx">
+      <DependentUpon>VVerMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\ventanas\Mercaderia\VAgregarMercaderia.resx">
+      <DependentUpon>VAgregarMercaderia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\ventanas\Mesas\VAgregarMesa.resx">
+      <DependentUpon>VAgregarMesa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\ventanas\Reservas\VAgregarReserva.resx">
+      <DependentUpon>VAgregarReserva.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\ventanas\Telefonos\VAgregarTelefono.resx">
+      <DependentUpon>VAgregarTelefono.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\ventanas\Utiles\VAgregarUtiles.resx">
+      <DependentUpon>VAgregarUtiles.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\ventanas\Ventas\VAgregarVentaMenu.resx">
+      <DependentUpon>VAgregarVentaMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\ventanas\Menues\VIngresarCantidadIngrediente.resx">
+      <DependentUpon>VIngresarCantidadIngrediente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\ventanas\Ventas\VIngresarCantidadVenta.resx">
+      <DependentUpon>VIngresarCantidadVenta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\ventanas\Ventas\VVenta.resx">
+      <DependentUpon>VVenta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\ventanas\Reservas\VVerReservas.resx">
+      <DependentUpon>VVerReservas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\views\AgendaTelefonica.resx">
+      <DependentUpon>AgendaTelefonica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\views\Configuraciones.resx">
+      <DependentUpon>Configuraciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\views\ControlMesas.resx">
+      <DependentUpon>ControlMesas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\views\EntradaSalida.resx">
+      <DependentUpon>EntradaSalida.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\views\InventarioMercaderia.resx">
+      <DependentUpon>InventarioMercaderia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\views\InventarioUtiles.resx">
+      <DependentUpon>InventarioUtiles.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\views\ManualAyuda.resx">
+      <DependentUpon>ManualAyuda.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\views\Menues.resx">
+      <DependentUpon>Menues.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\PantallaBloqueo.resx">
+      <DependentUpon>PantallaBloqueo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>PublicVbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="database\RBGDB.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="database\RBGDB_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>RBGDB.mdf</DependentUpon>
+    </Content>
+    <None Include="img\Otros\ImprimirTicketN.png" />
+    <None Include="img\Otros\ImprimirTicketB.png" />
+    <None Include="img\Otros\ConcretarVentaN.png" />
+    <None Include="img\Otros\ConcretarVentaB.png" />
+    <None Include="img\Otros\CerrarBN.png" />
+    <None Include="img\Otros\CerrarBB.png" />
+    <None Include="img\Otros\ModificarContraseñaN.png" />
+    <None Include="img\Otros\ModificarContraseñaB.png" />
+    <None Include="img\Otros\AgregarMesaN.png" />
+    <None Include="img\Otros\AgregarMesaB.png" />
+    <None Include="img\Otros\ImprimirN.png" />
+    <None Include="img\Otros\ImprimirB.png" />
+    <None Include="img\PantallaPrincipal\minimizarB.png" />
+    <None Include="img\PantallaPrincipal\MenuDisponibleB.png" />
+    <None Include="img\PantallaPrincipal\maximizarB.png" />
+    <None Include="img\PantallaPrincipal\ManualDeAyudaB.png" />
+    <None Include="img\PantallaPrincipal\InventarioDeUtilesB.png" />
+    <None Include="img\PantallaPrincipal\EntradasYSalidasB.png" />
+    <None Include="img\PantallaPrincipal\ControlMercaderiasB.png" />
+    <None Include="img\PantallaPrincipal\ControlDeMesasB.png" />
+    <None Include="img\PantallaPrincipal\ConfiguracionesB.png" />
+    <None Include="img\PantallaPrincipal\cerrarB.png" />
+    <None Include="img\PantallaPrincipal\BienvenidaB.png" />
+    <None Include="img\PantallaPrincipal\atrasB.png" />
+    <None Include="img\PantallaPrincipal\AgendaTelefonicaB.png" />
+    <None Include="img\Otros\CancelarChiquitoB.png" />
+    <None Include="img\Otros\CancelarB.png" />
+    <None Include="img\Otros\AgregarIngredienteB.png" />
+    <None Include="img\Otros\AgregarChiquitoB.png" />
+    <None Include="img\Otros\AgregarB.png" />
+    <None Include="img\Otros\AceptarChiquitoB.png" />
+    <None Include="img\Otros\AceptarB.png" />
+    <None Include="img\Otros\Redes\whatsapp.png" />
+    <None Include="img\Otros\Redes\instagram.png" />
+    <None Include="img\Otros\Redes\facebook.png" />
+    <None Include="img\PantallaBloqueo\FondoD.png" />
+    <None Include="img\Otros\AgregarN.png" />
+    <None Include="img\Otros\AgregarIngredienteN.png" />
+    <None Include="img\Otros\CancelarChiquitoN.png" />
+    <None Include="img\Otros\AgregarChiquitoN.png" />
+    <None Include="img\Otros\AceptarChiquitoN.png" />
+    <None Include="img\Otros\CancelarN.png" />
+    <None Include="img\Otros\AceptarN.png" />
+    <None Include="img\PantallaBloqueo\Fondo.png" />
+    <None Include="img\PantallaPrincipal\cerrarN.png" />
+    <None Include="img\PantallaPrincipal\maximizarN.png" />
+    <None Include="img\PantallaPrincipal\minimizarN.png" />
+    <None Include="img\PantallaPrincipal\ManualDeAyudaN.png" />
+    <None Include="img\PantallaPrincipal\ConfiguracionesN.png" />
+    <None Include="img\PantallaPrincipal\atrasN.png" />
+    <None Include="img\PantallaPrincipal\BienvenidaN.png" />
+    <None Include="img\PantallaPrincipal\Logo.png" />
+    <None Include="img\PantallaPrincipal\AgendaTelefonicaN.png" />
+    <None Include="img\PantallaPrincipal\EntradasYSalidasN.png" />
+    <None Include="img\PantallaPrincipal\InventarioDeUtilesN.png" />
+    <None Include="img\PantallaPrincipal\MenuDisponibleN.png" />
+    <None Include="img\PantallaPrincipal\ControlMercaderiasN.png" />
+    <None Include="img\PantallaPrincipal\ControlDeMesasN.png" />
+    <None Include="img\logo\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SqlServer.SqlLocalDB.15.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2019 Express LocalDB</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SqlServer.SQLSysClrTypes.12.0.x64">
+      <Visible>False</Visible>
+      <ProductName>Microsoft® System CLR Types for SQL Server® 2014 %28x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
